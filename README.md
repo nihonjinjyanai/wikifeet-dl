@@ -4,7 +4,7 @@ wikifeet-dl makes it simple to download entire collections from wikifeet and wik
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [yarn](https://yarnpkg.com/getting-started) to install wikifeet-dl.
 
 if the model is on wikifeet
 ```bash
